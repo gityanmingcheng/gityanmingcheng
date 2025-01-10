@@ -1,27 +1,44 @@
-1. github状态信息-api
+<!--
+<p align="center">
+<a href="https://tools.bugdesigner.cn/" target="_blank"><img align=center src="https://img.shields.io/badge/卡片徽章生成器-%2303a9f4?style=flat"/></a>&emsp;
+<a href="https://game.bugdesigner.cn/" target="_blank"><img align=center src="https://img.shields.io/badge/AI五子棋-%2303a9f4?style=flat"/></a>&emsp;
+<a href="https://www.querytransport.cn/" target="_blank"><img  align=center src="https://img.shields.io/badge/物流管理系统-%2303a9f4?style=flat"/></a>&emsp;
+</p>
+-->
+<!-- 个人资料 -->
+<p align="center"> 
+<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
+<a href="https://www.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
+<a href="https://space.bilibili.com/501122856" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
+<a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
+<a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
+</p>
 
-1.1 账户信息统计 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=gityanmingcheng&show_icons=true&theme=tokyonight)
+## 个人信息👤    
+全栈&爬虫&数据分析
 
-
-1.2 最常用语言
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=gityanmingcheng&layout=compact&theme=tokyonight)
-
-
-1.3 repo卡片
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=gityanmingcheng&repo=gityanmingcheng&theme=dark)
+## 我的项目📚
+- [整理java面题汇总](https://github.com/gityanmingcheng/InterviewQuestions)
 
 
 
-2.  社交统计
-![github统计](https://stats.justsong.cn/api/github?username=gityanmingcheng&theme=dark&lang=zh-CN)
 
-
-3. 统计访问次数
-
-![Visitor Count](https://profile-counter.glitch.me/{gityanmingcheng}/count.svg)
-
-
-![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
-![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
-
+## 技术栈🛠️
+<p align="left"> 
+      &emsp;&emsp;&emsp;
+      <!-- 前端 -->
+      <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
+      <!-- 后端和数据库 -->
+      <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
+</p>
+<!--
+<p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gityanmingcheng)](https://github.com/anuraghazra/github-readme-stats)</p>
+-->
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
