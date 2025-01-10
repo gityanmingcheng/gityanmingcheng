@@ -1,7 +1,7 @@
 1. github状态信息-api
 
 1.1 账户信息统计 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ubrong&show_icons=true&theme=tokyonight)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=gityanmingcheng&show_icons=true&theme=tokyonight)
 
 参数说明：
 username [必填] (string) 被统计信息的github用户名
@@ -10,14 +10,14 @@ theme [可选] (string) 主题（可用值：default, dark, radical, merko, gruv
 账户信息统计
 
 1.2 最常用语言
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=gityanmingcheng&layout=compact&theme=tokyonight)
 
 参数说明：
 layout [可选] (string) 布局（可用值：default, compact）
 最常用语言
 
 1.3 repo卡片
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=ubrong&repo=phoneweb-base&theme=dark)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=gityanmingcheng&repo=phoneweb-base&theme=dark)
 
 参数说明：
 repo [必选] (string) 仓库名称
@@ -25,7 +25,7 @@ repo卡片
 
 
 2.  社交统计
-![github统计](https://stats.justsong.cn/api/github?username=ubrong&theme=dark&lang=zh-CN)
+![github统计](https://stats.justsong.cn/api/github?username=gityanmingcheng&theme=dark&lang=zh-CN)
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
 
 支持平台与链接示例：
