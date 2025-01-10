@@ -9,16 +9,12 @@
 
 
 1.3 repo卡片
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=gityanmingcheng&repo=phoneweb-base&theme=dark)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=gityanmingcheng&repo=gityanmingcheng&theme=dark)
 
-参数说明：
-repo [必选] (string) 仓库名称
-repo卡片
 
 
 2.  社交统计
 ![github统计](https://stats.justsong.cn/api/github?username=gityanmingcheng&theme=dark&lang=zh-CN)
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
 
 
 3. 统计访问次数
